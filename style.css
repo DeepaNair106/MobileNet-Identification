@@ -1,0 +1,75 @@
+body{
+    font-family: 'Benne', serif;
+    background-color:rgb(255, 166, 255);
+}
+
+.header{
+    background-color: white;
+    color: black;
+    
+}
+.header img{
+    width: 100px;
+}
+
+h2{
+    font-size: 35px !important;
+}
+
+.main{
+    padding: 10px;
+    margin-top: 15px;
+    background-color: rgba(228, 76, 228, 0.705);
+    border: 3px solid white;
+}
+
+.main label{
+    width: 300px;
+    margin-bottom: 0px;
+    padding: 10px;
+    border: 1px solid white;
+    background-color: white;
+    box-shadow: 5px 5px 10px white;
+}
+#camera,#snapshot{
+border: 1px solid white ;
+width: 300px;
+height: 280px;
+box-shadow: 5px 5px 10px white;
+}
+
+button{
+    width: 300px;
+    font-size: 20px;
+    font-weight: bold !important;
+    border: 1px solid white;
+    box-shadow: 5px 5px 10px white;
+}
+
+.result_div{
+    margin-bottom: 50px;
+}
+
+.result_div h3{
+    padding: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 10px white;
+    color: black;
+    border-radius: 10px;
+
+}
+
+.result_div img{
+    width: 70px;
+}
+
+.footer_div{
+    position: fixed;
+    text-align: center;
+    background-color: white;
+    color: black;
+    line-height: 3;
+    bottom: 0;
+    width: 100%;
+}
+
